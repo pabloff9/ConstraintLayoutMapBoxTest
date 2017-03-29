@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_add_marker"
+            android:icon="@drawable/ic_menu_send"
+            android:title="Add UFG Marker" />
+        <item
+            android:id="@+id/nav_remove_makers"
+            android:icon="@drawable/ic_menu_send"
+            android:title="Remove Markers" />
+        <item
+            android:id="@+id/nav_move_region"
+            android:icon="@drawable/ic_menu_send"
+            android:title="Move to Region" />
+        <item
+            android:id="@+id/nav_draw_region"
+            android:icon="@drawable/ic_menu_send"
+            android:title="Draw Region" />
+
+        <item
+            android:id="@+id/nav_draw_region_delete_all"
+            android:icon="@drawable/ic_menu_send"
+            android:title="Region Delete All" />
+
+        <item
+            android:id="@+id/nav_draw_region_size"
+            android:icon="@drawable/ic_menu_send"
+            android:title="Region Size" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Share" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Send" />
+        </menu>
+    </item>
+
+</menu>

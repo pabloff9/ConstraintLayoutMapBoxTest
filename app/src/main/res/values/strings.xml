@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Constraint Test</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!-- MapBox -->
+    <string name="access_token">pk.eyJ1Ijoia3JsbHVzIiwiYSI6ImNqMGI5NHRuZzAzaXQzMmxjZWxrbHRtcXAifQ.1QWWYLr2Xtdobj2zmBiYwA</string>
+    <string name="map_style">mapbox://styles/krllus/cj0e11kik000t2sn3qplu0jl2</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="search_title">Busca</string>
+    <string name="menu_center_ufg">Center to UFG</string>
+    <string name="app_label">Search Label</string>
+    <string name="search_hint">Search Hint</string>
+    <string name="title_activity_searchable">SearchableActivity</string>
+    <string name="title_activity_search_results">Search Results</string>
+    <string name="action_search">Search</string>
+    <string name="search_label">Buscar lugar</string>
+
+</resources>
