@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pablo\.android\build-cache\2168aab71ccbbfc717a155e2e57ccce6998f82b1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\Pablo\AndroidStudioProjects\ConstraintLayoutMapBoxTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_63c01fac0bb327a0d2722c632ddc2c069f8e4e6b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pablo\.android\build-cache\a6237667d5387c3e441e2ef475db1438adea37e1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\Pablo\AndroidStudioProjects\ConstraintLayoutMapBoxTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_392a457c5cce3dded4ee6cd6339a82b3d94da308\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pablo\.android\build-cache\18d39586097f3857833a9679f48a4dee03e8c3d2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="C:\Users\Pablo\AndroidStudioProjects\ConstraintLayoutMapBoxTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_125c1bdf657e09abbb341a413172892a056c769d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pablo\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\Pablo\AndroidStudioProjects\ConstraintLayoutMapBoxTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_cd7aa4e20c3ebc4f373fa22055ba401a76268891\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pablo\.android\build-cache\674d283f97ca4706bdaec6ff84c996568e592d18\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="C:\Users\Pablo\AndroidStudioProjects\ConstraintLayoutMapBoxTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_60960ef97abecc57e5dc883cf4cf08319cbe48bb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pablo\.android\build-cache\76a6c44601eb690f5984d43e6093c2a4026c8b33\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="C:\Users\Pablo\AndroidStudioProjects\ConstraintLayoutMapBoxTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ffbee09091f02859c3661bb2d220cac154ec29f2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pablo\.android\build-cache\6b3d79de0e12ebb97b4a9836769abb48236adb2f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\Pablo\AndroidStudioProjects\ConstraintLayoutMapBoxTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_152190e3351e7a2844a86a7e8c92b615fabb542e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pablo\.android\build-cache\f8f7f5146479e9daf0c5ad3a360b273048080957\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Pablo\AndroidStudioProjects\ConstraintLayoutMapBoxTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_08bee77a32bcf1e6a7b238f654ccdf3b92f8864f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pablo\.gradle\caches\modules-2\files-2.1\io.reactivex.rxjava2\rxjava\2.0.1\57f850a6b317e5582f1dbaff10a9e7d7e1fcdcfb\rxjava-2.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="57f850a6b317e5582f1dbaff10a9e7d7e1fcdcfb">
+        <dex dex="C:\Users\Pablo\AndroidStudioProjects\ConstraintLayoutMapBoxTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\rxjava-2.0.1_a88da8d2367e9c39e9ffcda302704589995bc6fb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pablo\.android\build-cache\e7445c04c9de55fd1d1e2ae0b8e93f2706d3c361\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="C:\Users\Pablo\AndroidStudioProjects\ConstraintLayoutMapBoxTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7a5f48d308b599ed70c3447372bdce0999ef06de\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pablo\.android\build-cache\dc9324df376942660312721b6a80935966fc583b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\Pablo\AndroidStudioProjects\ConstraintLayoutMapBoxTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_75a77459bc963ef863ef10cb0ff3eefc7fbc8024\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pablo\.android\build-cache\888275ff486730ee647f9d9ee04b5dbb3edf2667\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="C:\Users\Pablo\AndroidStudioProjects\ConstraintLayoutMapBoxTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cf55a57f6eadba0dacb0503f323746f07d764210\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pablo\.android\build-cache\cc370701ec16bae20350a6bd7fa31d35ef95d668\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="C:\Users\Pablo\AndroidStudioProjects\ConstraintLayoutMapBoxTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ad45cbc27c968f57c187bdd6299227112ea18c34\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pablo\.android\build-cache\0350df141c9a3c558074504471ed8b77eeeba789\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="C:\Users\Pablo\AndroidStudioProjects\ConstraintLayoutMapBoxTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9caf7a7c0445247dbea9189eb3fdf1775021520b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pablo\.android\build-cache\bd88293ca46882f03012639fc3732b8abd089083\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\Pablo\AndroidStudioProjects\ConstraintLayoutMapBoxTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c2ae44384baebe35c988abcf882423d6b3295b27\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pablo\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\Pablo\AndroidStudioProjects\ConstraintLayoutMapBoxTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_a0a3dc952819419e11b1effd4c676c2b6f1e0141\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pablo\.android\build-cache\7fbf9d01dd80262c6a3fc1f6d7f7cd7f38b76d35\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\Pablo\AndroidStudioProjects\ConstraintLayoutMapBoxTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3374245b4ad34875d977067cc2fe6c73c3724660\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pablo\AndroidStudioProjects\ConstraintLayoutMapBoxTest\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\Pablo\AndroidStudioProjects\ConstraintLayoutMapBoxTest\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_5aa994966eda7852f3e256b746070d65f8b1a948\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pablo\.android\build-cache\e718adb08b2485479358c6c4f2a52684b8a138b2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\Pablo\AndroidStudioProjects\ConstraintLayoutMapBoxTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_03e23b3b2e8539a1fd573eaeed1d01d55b6547f1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pablo\.android\build-cache\0663ae3e7e41ff8844e7a76486bc04290a72c1b3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="C:\Users\Pablo\AndroidStudioProjects\ConstraintLayoutMapBoxTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_078fa64abc299d27b262c8a249f12e42725023b3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pablo\.android\build-cache\3dead1666afba2bc32871e57906a344ac00b1fcc\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\Pablo\AndroidStudioProjects\ConstraintLayoutMapBoxTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_527bdb08880ab57ec50f4e1ef4eab00e3d794dd5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pablo\.android\build-cache\09d04c57e41b68c7b4bf93495eca613b7626303e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4119ea97a7191ff9b8f33b534ea220448f62f491">
+        <dex dex="C:\Users\Pablo\AndroidStudioProjects\ConstraintLayoutMapBoxTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a54baba9311a2a6c6eee31ef1c8b9e66508a35e6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pablo\AndroidStudioProjects\ConstraintLayoutMapBoxTest\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7e169403c2bdff75bc98bc79ca0668540c6681bc">
+        <dex dex="C:\Users\Pablo\AndroidStudioProjects\ConstraintLayoutMapBoxTest\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_8d91ecfc408f6eb8b0f5495ea5115d21f873a21e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pablo\.android\build-cache\0e81d7a993c7f7792b1f1d19eb7e91f743b01e17\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\Pablo\AndroidStudioProjects\ConstraintLayoutMapBoxTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_255e6183b9f0ed25965d464d28ccf971d78ab579\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pablo\.android\build-cache\0c92f934238fd6f7ccc2974705401b840878f5ec\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\Pablo\AndroidStudioProjects\ConstraintLayoutMapBoxTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_eed0c5780c53b8b302de6fc5fa7e77dee7aa8ca0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pablo\.android\build-cache\8e100e8dd0e004c0cdb364113f0d58a631f69a5a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\Pablo\AndroidStudioProjects\ConstraintLayoutMapBoxTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_48bc0d520512e5ae8834da383089e6d711b0b361\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pablo\.android\build-cache\a8da091e9692889833334f073d19b0331cea7296\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\Pablo\AndroidStudioProjects\ConstraintLayoutMapBoxTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_523c068d3ad413098c9e688a2f1a6d613430bc01\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pablo\.gradle\caches\modules-2\files-2.1\org.reactivestreams\reactive-streams\1.0.0\14b8c877d98005ba3941c9257cfe09f6ed0e0d74\reactive-streams-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="14b8c877d98005ba3941c9257cfe09f6ed0e0d74">
+        <dex dex="C:\Users\Pablo\AndroidStudioProjects\ConstraintLayoutMapBoxTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\reactive-streams-1.0.0_28066b4567e0fd428ce0027e56fbbb249aad7ddf\classes.dex" />
+    </item>
+
+</items>
